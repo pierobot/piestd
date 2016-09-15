@@ -301,3 +301,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# CMake build folder
+build
+
+# Tests for pie lib
+tests

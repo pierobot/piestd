@@ -1,0 +1,3 @@
+PROJECT(pie CXX)
+
+ADD_SUBDIRECTORY(tests)
